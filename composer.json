@@ -21,7 +21,7 @@
     "extra": {
         "think": {
             "config": {
-                "app": "src/config/api.php",
+                "app": "src/config/api.php"
             }
         }
     }
