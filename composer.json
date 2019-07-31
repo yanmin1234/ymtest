@@ -1,0 +1,20 @@
+{
+    "name": "yamin\/ymtest",
+    "description": "test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yanmin",
+            "email": "1151469906@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Yanmin\\Ymtest\\": "src"
+        },
+        "files": [
+            "src/helper.php"
+        ]
+    }
+}
