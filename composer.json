@@ -16,5 +16,12 @@
         "files": [
             "src/helper.php"
         ]
+    },
+    "extra": {
+        "think": {
+            "config": {
+                "app": "src/config/api.php",
+            }
+        }
     }
 }

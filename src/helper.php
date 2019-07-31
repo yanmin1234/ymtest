@@ -5,4 +5,5 @@
  * Date: 2019/7/31
  * Time: 12:02
  */
-Route::get('yanmin/[:id]', "\\Yanmin\\Ymtest\\YanminController@index");
+//api
+Route::get(':ver/index',"\\Yanmin\\Ymtest\\api\\:ver\\Index@index");
